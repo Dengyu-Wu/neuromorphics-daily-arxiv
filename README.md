@@ -3,12 +3,12 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#Neuromorphics:-Online-Learning>Neuromorphics: Online Learning</a></li>
-    <li><a href=#Neuromorphics:-FPGA>Neuromorphics: FPGA</a></li>
+    <li><a href=#Neuromorphics---Online-Learning>Neuromorphics - Online Learning</a></li>
+    <li><a href=#Neuromorphics---FPGA>Neuromorphics - FPGA</a></li>
   </ol>
 </details>
 
-## Neuromorphics: Online Learning
+## Neuromorphics - Online Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -56,7 +56,7 @@
 
 <p align=right>(<a href=#Updated-on-20231125>back to top</a>)</p>
 
-## Neuromorphics: FPGA
+## Neuromorphics - FPGA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
