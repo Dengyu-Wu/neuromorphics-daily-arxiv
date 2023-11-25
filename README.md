@@ -115,7 +115,7 @@
 |**2023-10-05**|**Efficient Video and Audio processing with Loihi 2**|Sumit Bam Shrestha et.al.|[2310.03251v1](http://arxiv.org/abs/2310.03251v1)|null|
 |**2023-09-28**|**Ultra-low-power Image Classification on Neuromorphic Hardware**|Gregor Lenz et.al.|[2309.16795v1](http://arxiv.org/abs/2309.16795v1)|**[link](https://github.com/biphasic/quartz-on-loihi)**|
 |**2023-08-22**|**Energy-Efficient On-Board Radio Resource Management for Satellite Communications via Neuromorphic Computing**|Flor Ortiz et.al.|[2308.11152v1](http://arxiv.org/abs/2308.11152v1)|null|
-|**2023-08-01**|**Evaluating Spiking Neural Network On Neuromorphic Platform For Human Activity Recognition**|Sizhen Bian et.al.|[2308.00787v1](http://arxiv.org/abs/2308.00787v1)|null|
+|**2023-08-01**|**Evaluating Spiking Neural Network On Neuromorphic Platform For Human Activity Recognition**|Sizhen Bian et.al.|[2308.00787v1](http://arxiv.org/abs/2308.00787v1)|**[link](https://github.com/zhaxidele/har-with-snn)**|
 |**2023-07-25**|**Implementing and Benchmarking the Locally Competitive Algorithm on the Loihi 2 Neuromorphic Processor**|Gavin Parpart et.al.|[2307.13762v1](http://arxiv.org/abs/2307.13762v1)|null|
 |**2023-07-28**|**Bio-realistic Neural Network Implementation on Loihi 2 with Izhikevich Neurons**|Recep Buğra Uludağ et.al.|[2307.11844v2](http://arxiv.org/abs/2307.11844v2)|null|
 |**2023-08-02**|**Sampling binary sparse coding QUBO models using a spiking neuromorphic processor**|Kyle Henke et.al.|[2306.01940v2](http://arxiv.org/abs/2306.01940v2)|null|
@@ -341,6 +341,7 @@
 |**2023-11-07**|**Multi-scale Evolutionary Neural Architecture Search for Deep Spiking Neural Networks**|Wenxuan Pan et.al.|[2304.10749v5](http://arxiv.org/abs/2304.10749v5)|null|
 |**2023-04-18**|**Neuromorphic Control using Input-Weighted Threshold Adaptation**|Stein Stroobants et.al.|[2304.08778v1](http://arxiv.org/abs/2304.08778v1)|null|
 |**2023-10-23**|**Temporal Knowledge Sharing enable Spiking Neural Network Learning from Past and Future**|Yiting Dong et.al.|[2304.06540v2](http://arxiv.org/abs/2304.06540v2)|null|
+|**2023-04-26**|**Online Spatio-Temporal Learning with Target Projection**|Thomas Ortner et.al.|[2304.05124v2](http://arxiv.org/abs/2304.05124v2)|null|
 |**2023-04-08**|**High Speed Neuromorphic Vision-Based Inspection of Countersinks in Automated Manufacturing Processes**|Mohammed Salah et.al.|[2304.04108v1](http://arxiv.org/abs/2304.04108v1)|null|
 |**2023-04-08**|**EnforceSNN: Enabling Resilient and Energy-Efficient Spiking Neural Network Inference considering Approximate DRAMs for Embedded Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2304.04039v1](http://arxiv.org/abs/2304.04039v1)|null|
 |**2023-04-06**|**Tensor Slicing and Optimization for Multicore NPUs**|Rafael Sousa et.al.|[2304.03013v1](http://arxiv.org/abs/2304.03013v1)|null|
