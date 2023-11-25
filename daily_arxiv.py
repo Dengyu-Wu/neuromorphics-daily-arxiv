@@ -229,14 +229,15 @@ if __name__ == "__main__":
     keywords["Neuromorphics - Online Learning"]  = "\"Neuromorphic\"AND\"Online learning\""
     keywords["Neuromorphics - FPGA"]  = "\"Neuromorphic\"AND\"FPGA\""
     keywords["Neuromorphics - Loihi"]  = "\"Neuromorphic\"AND\"Loihi\""
-    keywords["Neuromorphics - Optimization"]  = "\"Neuromorphic\"AND\"Optimisation\""
+    keywords["Neuromorphics - Optimization"]  = "\"Neuromorphic\"AND\"Optimization\""
+    keywords["Neuromorphics - Algorithm"]  = "\"Neuromorphic\"AND\"Algorithm\""
 
     for topic,keyword in keywords.items():
  
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
 
-        data,data_web = get_daily_papers(topic, query = keyword, max_results = 10)
+        data,data_web = get_daily_papers(topic, query = keyword, max_results = 100)
         data_collector.append(data)
         data_collector_web.append(data_web)
 
