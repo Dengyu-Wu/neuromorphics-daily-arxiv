@@ -6,6 +6,7 @@
     <li><a href=#Neuromorphics---Online-Learning>Neuromorphics - Online Learning</a></li>
     <li><a href=#Neuromorphics---FPGA>Neuromorphics - FPGA</a></li>
     <li><a href=#Neuromorphics---Loihi>Neuromorphics - Loihi</a></li>
+    <li><a href=#Neuromorphics---Optimization>Neuromorphics - Optimization</a></li>
   </ol>
 </details>
 
@@ -57,6 +58,23 @@
 |**2023-05-18**|**Neuromorphic Bayesian Optimization in Lava**|Shay Snyder et.al.|[2305.11060v1](http://arxiv.org/abs/2305.11060v1)|null|
 |**2023-04-18**|**Neuromorphic computing for attitude estimation onboard quadrotors**|Stein Stroobants et.al.|[2304.08802v1](http://arxiv.org/abs/2304.08802v1)|null|
 |**2023-08-01**|**The Intel Neuromorphic DNS Challenge**|Jonathan Timcheck et.al.|[2303.09503v3](http://arxiv.org/abs/2303.09503v3)|**[link](https://github.com/intellabs/intelneuromorphicdnschallenge)**|
+
+<p align=right>(<a href=#Updated-on-20231126>back to top</a>)</p>
+
+## Neuromorphics - Optimization
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-08-23**|**Computational models of object motion detectors accelerated using FPGA technology**|Pedro Machado et.al.|[2310.06842v1](http://arxiv.org/abs/2310.06842v1)|null|
+|**2023-03-13**|**On the switching mechanism and optimisation of ion irradiation enabled 2D $MoS_2$ memristors**|Samuel Aldana et.al.|[2301.05260v2](http://arxiv.org/abs/2301.05260v2)|null|
+|**2023-07-28**|**Task-adaptive physical reservoir computing**|Oscar Lee et.al.|[2209.06962v3](http://arxiv.org/abs/2209.06962v3)|null|
+|**2021-11-19**|**Quadratic speedup of global search using a biased crossover of two good solutions**|Takuya Isomura et.al.|[2111.07680v2](http://arxiv.org/abs/2111.07680v2)|null|
+|**2021-10-04**|**Ultrafast Neuromorphic Photonic Image Processing with a VCSEL Neuron**|Joshua Robertson et.al.|[2110.01617v1](http://arxiv.org/abs/2110.01617v1)|null|
+|**2021-09-19**|**Ti$_3$C$_2$T$_x$ MXene Enabled All-Optical Nonlinear Activation Function for On-Chip Photonic Deep Neural Networks**|Adir Hazan et.al.|[2109.09177v1](http://arxiv.org/abs/2109.09177v1)|null|
+|**2021-12-08**|**Fully CMOS-compatible passive TiO2-based memristor crossbars for in-memory computing**|Abdelouadoud El Mesoudy et.al.|[2106.11808v3](http://arxiv.org/abs/2106.11808v3)|null|
+|**2022-06-09**|**Network insensitivity to parameter noise via adversarial regularization**|Julian Büchel et.al.|[2106.05009v3](http://arxiv.org/abs/2106.05009v3)|**[link](https://github.com/jubueche/bptt-lipschitzness)**|
+|**2020-08-16**|**Supervised Learning with First-to-Spike Decoding in Multilayer Spiking Neural Networks**|Brian Gardner et.al.|[2008.06937v1](http://arxiv.org/abs/2008.06937v1)|null|
+|**2020-08-02**|**Complexity continuum within Ising formulation of NP problems**|Kirill P. Kalinin et.al.|[2008.00466v1](http://arxiv.org/abs/2008.00466v1)|null|
 
 <p align=right>(<a href=#Updated-on-20231126>back to top</a>)</p>
 

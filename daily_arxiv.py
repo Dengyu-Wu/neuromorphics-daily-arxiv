@@ -229,7 +229,7 @@ if __name__ == "__main__":
     keywords["Neuromorphics - Online Learning"]  = "\"Neuromorphic\"AND\"Online learning\""
     keywords["Neuromorphics - FPGA"]  = "\"Neuromorphic\"AND\"FPGA\""
     keywords["Neuromorphics - Loihi"]  = "\"Neuromorphic\"AND\"Loihi\""
-    keywords["Neuromorphics - Optimization"]  = "\"Neuromorphic\"AND\"Optimi\""
+    keywords["Neuromorphics - Optimization"]  = "\"Neuromorphic\"AND\"Optimisation\""
 
     for topic,keyword in keywords.items():
  
