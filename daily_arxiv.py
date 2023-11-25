@@ -229,7 +229,7 @@ if __name__ == "__main__":
     keywords["Neuromorphics - Online Learning"]  = "\"Neuromorphics\"OR\"Neuromorphic\"AND\"Online learning\""
     keywords["Neuromorphics - FPGA"]  = "\"Neuromorphics\"OR\"Neuromorphic\"AND\"FPGA\""
     keywords["Neuromorphics - Loihi"]  = "\"Neuromorphics\"OR\"Neuromorphic\"AND\"Loihi\""
-    keywords["Neuromorphics - Optimization"]  = "\"Neuromorphics\"OR\"Neuromorphic\"AND\"Optimization\""
+    keywords["Neuromorphics - Optimization"]  = "\"Neuromorphics\"OR\"Neuromorphic\"AND\"Optimization\or\"Optimisation\""
 
     for topic,keyword in keywords.items():
  
@@ -243,7 +243,7 @@ if __name__ == "__main__":
         print("\n")
 
     # 1. update README.md file
-    json_file = "neuromorphic-arxiv-weekly.json"
+    json_file = "neuromorphic-arxiv-daily.json"
     md_file   = "README.md"
     # update json data
     update_json_file(json_file,data_collector)

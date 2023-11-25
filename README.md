@@ -1,4 +1,4 @@
-## Updated on 2023.11.25
+## Updated on 2023.11.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -56,7 +56,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231126>back to top</a>)</p>
 
 ## Neuromorphics - FPGA
 
@@ -105,7 +105,7 @@
 |**2013-04-02**|**Event management for large scale event-driven digital hardware spiking neural networks**|Louis-Charles Caron et.al.|[1304.0640v1](http://arxiv.org/abs/1304.0640v1)|null|
 |**2012-12-16**|**Biologically Inspired Spiking Neurons : Piecewise Linear Models and Digital Implementation**|Hamid Soleimani et.al.|[1212.3765v1](http://arxiv.org/abs/1212.3765v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231126>back to top</a>)</p>
 
 ## Neuromorphics - Loihi
 
@@ -179,7 +179,7 @@
 |**2019-04-02**|**Benchmarking Keyword Spotting Efficiency on Neuromorphic Hardware**|Peter Blouw et.al.|[1812.01739v2](http://arxiv.org/abs/1812.01739v2)|**[link](https://github.com/abr/power_benchmarks)**|
 |**2019-12-18**|**Training Dynamic Exponential Family Models with Causal and Lateral Dependencies for Generalized Neuromorphic Computing**|Hyeryung Jang et.al.|[1810.08940v3](http://arxiv.org/abs/1810.08940v3)|null|
 
-<p align=right>(<a href=#Updated-on-20231125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231126>back to top</a>)</p>
 
 ## Neuromorphics - Optimization
 
@@ -386,5 +386,5 @@
 |**2020-10-23**|**The Heidelberg spiking datasets for the systematic evaluation of spiking neural networks**|Benjamin Cramer et.al.|[1910.07407v3](http://arxiv.org/abs/1910.07407v3)|null|
 |**2019-10-13**|**Modelling Resistive and Phase Change Memory with Passive Selector Arrays -- A Matlab Tool**|Yasir J Noori et.al.|[1910.05836v1](http://arxiv.org/abs/1910.05836v1)|**[link](https://github.com/yjnoori/Phase-Change-Memory)**|
 
-<p align=right>(<a href=#Updated-on-20231125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231126>back to top</a>)</p>
 
