@@ -225,15 +225,16 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["Neuromorphic"]                 = "\"Neuromorphic\"OR\"Neuromorphics\""
-    keywords["On-chip Learning"]                 = "\"On-chip Learning\"AND\"FPGA\""
+    # keywords["Neuromorphics"]                    = "\"Neuromorphic\"OR\"Neuromorphics\""
+    keywords["Neuromorphics: Online Learning"]  = "\"Neuromorphic\"AND\"Online learning\""
+    keywords["Neuromorphics: FPGA"]  = "\"Neuromorphic\"AND\"FPGA\""
 
     for topic,keyword in keywords.items():
  
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
 
-        data,data_web = get_daily_papers(topic, query = keyword, max_results = 400)
+        data,data_web = get_daily_papers(topic, query = keyword, max_results = 100)
         data_collector.append(data)
         data_collector_web.append(data_web)
 
