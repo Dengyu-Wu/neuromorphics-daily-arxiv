@@ -1,4 +1,4 @@
-## Updated on 2023.11.30
+## Updated on 2023.12.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -57,7 +57,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
 
 ## Neuromorphics - FPGA
 
@@ -106,7 +106,7 @@
 |**2013-04-02**|**Event management for large scale event-driven digital hardware spiking neural networks**|Louis-Charles Caron et.al.|[1304.0640v1](http://arxiv.org/abs/1304.0640v1)|null|
 |**2012-12-16**|**Biologically Inspired Spiking Neurons : Piecewise Linear Models and Digital Implementation**|Hamid Soleimani et.al.|[1212.3765v1](http://arxiv.org/abs/1212.3765v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
 
 ## Neuromorphics - Loihi
 
@@ -180,12 +180,13 @@
 |**2019-04-02**|**Benchmarking Keyword Spotting Efficiency on Neuromorphic Hardware**|Peter Blouw et.al.|[1812.01739v2](http://arxiv.org/abs/1812.01739v2)|**[link](https://github.com/abr/power_benchmarks)**|
 |**2019-12-18**|**Training Dynamic Exponential Family Models with Causal and Lateral Dependencies for Generalized Neuromorphic Computing**|Hyeryung Jang et.al.|[1810.08940v3](http://arxiv.org/abs/1810.08940v3)|null|
 
-<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
 
 ## Neuromorphics - Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**Design Space and Variability Analysis of SOI MOSFET for Ultra-Low Power Band-to-Band Tunneling Neurons**|Jay Sonawane et.al.|[2311.18577v1](http://arxiv.org/abs/2311.18577v1)|null|
 |**2023-11-21**|**HPCNeuroNet: Advancing Neuromorphic Audio Signal Processing with Transformer-Enhanced Spiking Neural Networks**|Murat Isik et.al.|[2311.12449v1](http://arxiv.org/abs/2311.12449v1)|null|
 |**2023-11-15**|**Adversarially Robust Spiking Neural Networks Through Conversion**|Ozan Özdenizci et.al.|[2311.09266v1](http://arxiv.org/abs/2311.09266v1)|**[link](https://github.com/igitugraz/robustsnnconversion)**|
 |**2023-11-10**|**Perspective on Nanoscaled Magnonic Networks**|Qi Wang et.al.|[2311.06129v1](http://arxiv.org/abs/2311.06129v1)|null|
@@ -210,7 +211,7 @@
 |**2023-08-17**|**Person Re-Identification without Identification via Event Anonymization**|Shafiq Ahmad et.al.|[2308.04402v4](http://arxiv.org/abs/2308.04402v4)|**[link](https://github.com/IIT-PAVIS/ReId_without_Id)**|
 |**2023-08-08**|**Core interface optimization for multi-core neuromorphic processors**|Zhe Su et.al.|[2308.04171v1](http://arxiv.org/abs/2308.04171v1)|null|
 |**2023-08-01**|**On the Generation of a Synthetic Event-Based Vision Dataset for Navigation and Landing**|Loïc J. Azzalini et.al.|[2308.00394v1](http://arxiv.org/abs/2308.00394v1)|**[link](https://gitlab.com/europeanspaceagency/trajectory-to-events)**|
-|**2023-07-26**|**Single Channel Speech Enhancement Using U-Net Spiking Neural Networks**|Abir Riahi et.al.|[2307.14464v1](http://arxiv.org/abs/2307.14464v1)|null|
+|**2023-07-26**|**Single Channel Speech Enhancement Using U-Net Spiking Neural Networks**|Abir Riahi et.al.|[2307.14464v1](http://arxiv.org/abs/2307.14464v1)|**[link](https://github.com/riaa3102/SESNNet)**|
 |**2023-11-10**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349v2](http://arxiv.org/abs/2307.11349v2)|null|
 |**2023-07-20**|**On-Sensor Data Filtering using Neuromorphic Computing for High Energy Physics Experiments**|Shruti R. Kulkarni et.al.|[2307.11242v1](http://arxiv.org/abs/2307.11242v1)|null|
 |**2023-07-20**|**Nanoscale imaging of He-ion irradiation effects on amorphous TaO$_x$ toward electroforming-free neuromorphic functions**|Olha Popova et.al.|[2307.11189v1](http://arxiv.org/abs/2307.11189v1)|null|
@@ -287,12 +288,13 @@
 |**2022-05-25**|**TNN7: A Custom Macro Suite for Implementing Highly Optimized Designs of Neuromorphic TNNs**|Harideep Nair et.al.|[2205.07410v2](http://arxiv.org/abs/2205.07410v2)|**[link](https://github.com/prabsy96/TNN7)**|
 |**2022-04-01**|**Physical Deep Learning with Biologically Plausible Training Method**|Mitsumasa Nakajima et.al.|[2204.13991v1](http://arxiv.org/abs/2204.13991v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
 
 ## Neuromorphics - Algorithm
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**Neuromorphic Incremental on-chip Learning with Hebbian Weight Consolidation**|Zifan Ning et.al.|[2311.18340v1](http://arxiv.org/abs/2311.18340v1)|null|
 |**2023-11-15**|**Adversarially Robust Spiking Neural Networks Through Conversion**|Ozan Özdenizci et.al.|[2311.09266v1](http://arxiv.org/abs/2311.09266v1)|**[link](https://github.com/igitugraz/robustsnnconversion)**|
 |**2023-11-10**|**Programmable Superconducting Optoelectronic Single-Photon Synapses with Integrated Multi-State Memory**|Bryce A. Primavera et.al.|[2311.05881v1](http://arxiv.org/abs/2311.05881v1)|null|
 |**2023-10-07**|**Hardware-Algorithm Co-design Enabling Processing-in-Pixel-in-Memory (P2M) for Neuromorphic Vision Sensors**|Md Abdullah-Al Kaiser et.al.|[2310.16844v1](http://arxiv.org/abs/2310.16844v1)|null|
@@ -394,5 +396,5 @@
 |**2022-08-29**|**Cortical-inspired placement and routing: minimizing the memory resources in multi-core neuromorphic processors**|Vanessa R. C. Leite et.al.|[2208.13587v1](http://arxiv.org/abs/2208.13587v1)|null|
 |**2022-08-26**|**Polarization-controlled volatile ferroelectric and capacitive switching in Sn$_2$P$_2$S$_6$**|Sabine M. Neumayer et.al.|[2208.12734v1](http://arxiv.org/abs/2208.12734v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
 
