@@ -1,4 +1,4 @@
-## Updated on 2024.01.01
+## Updated on 2024.01.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -57,7 +57,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240106>back to top</a>)</p>
 
 ## Neuromorphics - FPGA
 
@@ -107,7 +107,7 @@
 |**2013-04-02**|**Event management for large scale event-driven digital hardware spiking neural networks**|Louis-Charles Caron et.al.|[1304.0640v1](http://arxiv.org/abs/1304.0640v1)|null|
 |**2012-12-16**|**Biologically Inspired Spiking Neurons : Piecewise Linear Models and Digital Implementation**|Hamid Soleimani et.al.|[1212.3765v1](http://arxiv.org/abs/1212.3765v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240106>back to top</a>)</p>
 
 ## Neuromorphics - Loihi
 
@@ -181,7 +181,7 @@
 |**2019-04-02**|**Benchmarking Keyword Spotting Efficiency on Neuromorphic Hardware**|Peter Blouw et.al.|[1812.01739v2](http://arxiv.org/abs/1812.01739v2)|**[link](https://github.com/abr/power_benchmarks)**|
 |**2019-12-18**|**Training Dynamic Exponential Family Models with Causal and Lateral Dependencies for Generalized Neuromorphic Computing**|Hyeryung Jang et.al.|[1810.08940v3](http://arxiv.org/abs/1810.08940v3)|null|
 
-<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240106>back to top</a>)</p>
 
 ## Neuromorphics - Optimization
 
@@ -216,7 +216,7 @@
 |**2023-08-08**|**Core interface optimization for multi-core neuromorphic processors**|Zhe Su et.al.|[2308.04171v1](http://arxiv.org/abs/2308.04171v1)|null|
 |**2023-08-01**|**On the Generation of a Synthetic Event-Based Vision Dataset for Navigation and Landing**|Loïc J. Azzalini et.al.|[2308.00394v1](http://arxiv.org/abs/2308.00394v1)|**[link](https://gitlab.com/europeanspaceagency/trajectory-to-events)**|
 |**2023-07-26**|**Single Channel Speech Enhancement Using U-Net Spiking Neural Networks**|Abir Riahi et.al.|[2307.14464v1](http://arxiv.org/abs/2307.14464v1)|**[link](https://github.com/riaa3102/SESNNet)**|
-|**2023-12-26**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349v3](http://arxiv.org/abs/2307.11349v3)|**[link](https://github.com/souravsanyal06/ev-planner)**|
+|**2024-01-03**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349v5](http://arxiv.org/abs/2307.11349v5)|**[link](https://github.com/souravsanyal06/ev-planner)**|
 |**2023-07-20**|**On-Sensor Data Filtering using Neuromorphic Computing for High Energy Physics Experiments**|Shruti R. Kulkarni et.al.|[2307.11242v1](http://arxiv.org/abs/2307.11242v1)|null|
 |**2023-07-20**|**Nanoscale imaging of He-ion irradiation effects on amorphous TaO$_x$ toward electroforming-free neuromorphic functions**|Olha Popova et.al.|[2307.11189v1](http://arxiv.org/abs/2307.11189v1)|null|
 |**2023-07-20**|**Unveiling the intrinsic dynamics of biological and artificial neural networks: from criticality to optimal representations**|Guillermo B. Morales et.al.|[2307.10669v1](http://arxiv.org/abs/2307.10669v1)|null|
@@ -241,6 +241,7 @@
 |**2023-08-02**|**Sampling binary sparse coding QUBO models using a spiking neuromorphic processor**|Kyle Henke et.al.|[2306.01940v2](http://arxiv.org/abs/2306.01940v2)|null|
 |**2023-06-02**|**Synaptic motor adaptation: A three-factor learning rule for adaptive robotic control in spiking neural networks**|Samuel Schmidgall et.al.|[2306.01906v1](http://arxiv.org/abs/2306.01906v1)|null|
 |**2023-05-28**|**Evolving Connectivity for Recurrent Spiking Neural Networks**|Guan Wang et.al.|[2305.17650v1](http://arxiv.org/abs/2305.17650v1)|null|
+|**2024-01-04**|**A Hybrid Neural Coding Approach for Pattern Recognition with Spiking Neural Networks**|Xinyi Chen et.al.|[2305.16594v2](http://arxiv.org/abs/2305.16594v2)|**[link](https://github.com/xychen-comp/hybrid-coding-snn)**|
 |**2023-09-07**|**Optimizations for a Current-Controlled Memristor-based Neuromorphic Synapse Design**|Hritom Das et.al.|[2305.16418v2](http://arxiv.org/abs/2305.16418v2)|null|
 |**2023-05-23**|**Improving Stability and Performance of Spiking Neural Networks through Enhancing Temporal Consistency**|Dongcheng Zhao et.al.|[2305.14174v1](http://arxiv.org/abs/2305.14174v1)|null|
 |**2023-05-18**|**Neuromorphic Bayesian Optimization in Lava**|Shay Snyder et.al.|[2305.11060v1](http://arxiv.org/abs/2305.11060v1)|null|
@@ -292,7 +293,7 @@
 |**2022-05-25**|**TNN7: A Custom Macro Suite for Implementing Highly Optimized Designs of Neuromorphic TNNs**|Harideep Nair et.al.|[2205.07410v2](http://arxiv.org/abs/2205.07410v2)|**[link](https://github.com/prabsy96/TNN7)**|
 |**2022-04-01**|**Physical Deep Learning with Biologically Plausible Training Method**|Mitsumasa Nakajima et.al.|[2204.13991v1](http://arxiv.org/abs/2204.13991v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240106>back to top</a>)</p>
 
 ## Neuromorphics - Algorithm
 
@@ -301,7 +302,7 @@
 |**2023-12-29**|**Darwin3: A large-scale neuromorphic chip with a Novel ISA and On-Chip Learning**|De Ma et.al.|[2312.17582v1](http://arxiv.org/abs/2312.17582v1)|null|
 |**2023-12-25**|**Astrocyte Regulated Neuromorphic CPG Control of Legged Robotic Locomotion**|Zhuangyu Han et.al.|[2312.15805v1](http://arxiv.org/abs/2312.15805v1)|null|
 |**2023-12-11**|**Neuromorphic Co-Design as a Game**|Craig M. Vineyard et.al.|[2312.14954v1](http://arxiv.org/abs/2312.14954v1)|null|
-|**2023-12-22**|**Kernel Heterogeneity Improves Sparseness of Natural Images Representations**|Hugo J. Ladret et.al.|[2312.14685v1](http://arxiv.org/abs/2312.14685v1)|null|
+|**2023-12-22**|**Kernel Heterogeneity Improves Sparseness of Natural Images Representations**|Hugo J. Ladret et.al.|[2312.14685v1](http://arxiv.org/abs/2312.14685v1)|**[link](https://github.com/hugoladret/epistemic_csc)**|
 |**2023-12-18**|**Delving Deeper Into Astromorphic Transformers**|Md Zesun Ahmed Mia et.al.|[2312.10925v1](http://arxiv.org/abs/2312.10925v1)|null|
 |**2023-12-13**|**Accelerated Event-Based Feature Detection and Compression for Surveillance Video Systems**|Andrew C. Freeman et.al.|[2312.08213v1](http://arxiv.org/abs/2312.08213v1)|null|
 |**2023-12-11**|**Deep Photonic Reservoir Computer for Speech Recognition**|Enrico Picco et.al.|[2312.06558v1](http://arxiv.org/abs/2312.06558v1)|null|
@@ -408,5 +409,5 @@
 |**2022-08-29**|**Cortical-inspired placement and routing: minimizing the memory resources in multi-core neuromorphic processors**|Vanessa R. C. Leite et.al.|[2208.13587v1](http://arxiv.org/abs/2208.13587v1)|null|
 |**2022-08-26**|**Polarization-controlled volatile ferroelectric and capacitive switching in Sn$_2$P$_2$S$_6$**|Sabine M. Neumayer et.al.|[2208.12734v1](http://arxiv.org/abs/2208.12734v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240106>back to top</a>)</p>
 
