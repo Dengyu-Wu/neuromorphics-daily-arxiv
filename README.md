@@ -1,4 +1,4 @@
-## Updated on 2024.01.29
+## Updated on 2024.01.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -57,7 +57,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240130>back to top</a>)</p>
 
 ## Neuromorphics - FPGA
 
@@ -109,7 +109,7 @@
 |**2013-04-02**|**Event management for large scale event-driven digital hardware spiking neural networks**|Louis-Charles Caron et.al.|[1304.0640v1](http://arxiv.org/abs/1304.0640v1)|null|
 |**2012-12-16**|**Biologically Inspired Spiking Neurons : Piecewise Linear Models and Digital Implementation**|Hamid Soleimani et.al.|[1212.3765v1](http://arxiv.org/abs/1212.3765v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240130>back to top</a>)</p>
 
 ## Neuromorphics - Loihi
 
@@ -185,7 +185,7 @@
 |**2019-04-02**|**Benchmarking Keyword Spotting Efficiency on Neuromorphic Hardware**|Peter Blouw et.al.|[1812.01739v2](http://arxiv.org/abs/1812.01739v2)|**[link](https://github.com/abr/power_benchmarks)**|
 |**2019-12-18**|**Training Dynamic Exponential Family Models with Causal and Lateral Dependencies for Generalized Neuromorphic Computing**|Hyeryung Jang et.al.|[1810.08940v3](http://arxiv.org/abs/1810.08940v3)|null|
 
-<p align=right>(<a href=#Updated-on-20240129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240130>back to top</a>)</p>
 
 ## Neuromorphics - Optimization
 
@@ -236,7 +236,7 @@
 |**2023-07-03**|**Resistive memory-based zero-shot liquid state machine for multimodal event data learning**|Ning Lin et.al.|[2307.00771v1](http://arxiv.org/abs/2307.00771v1)|null|
 |**2023-12-14**|**AutoST: Training-free Neural Architecture Search for Spiking Transformers**|Ziqing Wang et.al.|[2307.00293v2](http://arxiv.org/abs/2307.00293v2)|null|
 |**2023-06-30**|**Zespol: A Lightweight Environment for Training Swarming Agents**|Shay Snyder et.al.|[2306.17744v1](http://arxiv.org/abs/2306.17744v1)|null|
-|**2023-11-01**|**To Spike or Not To Spike: A Digital Hardware Perspective on Deep Learning Acceleration**|Fabrizio Ottati et.al.|[2306.15749v4](http://arxiv.org/abs/2306.15749v4)|**[link](https://github.com/fabrizio-ottati/awesome-neuromorphic-hw)**|
+|**2024-01-28**|**To Spike or Not To Spike: A Digital Hardware Perspective on Deep Learning Acceleration**|Fabrizio Ottati et.al.|[2306.15749v5](http://arxiv.org/abs/2306.15749v5)|**[link](https://github.com/fabrizio-ottati/awesome-neuromorphic-hw)**|
 |**2023-06-26**|**C3S Micro-architectural Enhancement: Spike Encoder Block and Relaxing Gamma Clock (Asynchronous)**|Alok Anand et.al.|[2306.15093v1](http://arxiv.org/abs/2306.15093v1)|null|
 |**2023-06-26**|**CIMulator: A Comprehensive Simulation Platform for Computing-In-Memory Circuit Macros with Low Bit-Width and Real Memory Materials**|Hoang-Hiep Le et.al.|[2306.14649v1](http://arxiv.org/abs/2306.14649v1)|null|
 |**2023-06-22**|**Memristive Reservoirs Learn to Learn**|Ruomin Zhu et.al.|[2306.12676v1](http://arxiv.org/abs/2306.12676v1)|null|
@@ -301,12 +301,13 @@
 |**2022-05-25**|**TNN7: A Custom Macro Suite for Implementing Highly Optimized Designs of Neuromorphic TNNs**|Harideep Nair et.al.|[2205.07410v2](http://arxiv.org/abs/2205.07410v2)|**[link](https://github.com/prabsy96/TNN7)**|
 |**2022-04-01**|**Physical Deep Learning with Biologically Plausible Training Method**|Mitsumasa Nakajima et.al.|[2204.13991v1](http://arxiv.org/abs/2204.13991v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240130>back to top</a>)</p>
 
 ## Neuromorphics - Algorithm
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**Speed-based Filtration and DBSCAN of Event-based Camera Data with Neuromorphic Computing**|Charles P. Rizzo et.al.|[2401.15212v1](http://arxiv.org/abs/2401.15212v1)|null|
 |**2024-01-11**|**NeuSpin: Design of a Reliable Edge Neuromorphic System Based on Spintronics for Green AI**|Soyed Tuhin Ahmed et.al.|[2401.06195v1](http://arxiv.org/abs/2401.06195v1)|null|
 |**2024-01-09**|**SpiNNaker2: A Large-Scale Neuromorphic System for Event-Based and Asynchronous Machine Learning**|Hector A. Gonzalez et.al.|[2401.04491v1](http://arxiv.org/abs/2401.04491v1)|null|
 |**2023-12-29**|**Darwin3: A large-scale neuromorphic chip with a Novel ISA and On-Chip Learning**|De Ma et.al.|[2312.17582v1](http://arxiv.org/abs/2312.17582v1)|null|
@@ -420,5 +421,5 @@
 |**2022-08-29**|**Cortical-inspired placement and routing: minimizing the memory resources in multi-core neuromorphic processors**|Vanessa R. C. Leite et.al.|[2208.13587v1](http://arxiv.org/abs/2208.13587v1)|null|
 |**2022-08-26**|**Polarization-controlled volatile ferroelectric and capacitive switching in Sn$_2$P$_2$S$_6$**|Sabine M. Neumayer et.al.|[2208.12734v1](http://arxiv.org/abs/2208.12734v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240130>back to top</a>)</p>
 
