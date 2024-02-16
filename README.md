@@ -1,4 +1,4 @@
-## Updated on 2024.02.15
+## Updated on 2024.02.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -57,7 +57,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240216>back to top</a>)</p>
 
 ## Neuromorphics - FPGA
 
@@ -109,7 +109,7 @@
 |**2013-04-02**|**Event management for large scale event-driven digital hardware spiking neural networks**|Louis-Charles Caron et.al.|[1304.0640v1](http://arxiv.org/abs/1304.0640v1)|null|
 |**2012-12-16**|**Biologically Inspired Spiking Neurons : Piecewise Linear Models and Digital Implementation**|Hamid Soleimani et.al.|[1212.3765v1](http://arxiv.org/abs/1212.3765v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240216>back to top</a>)</p>
 
 ## Neuromorphics - Loihi
 
@@ -185,12 +185,14 @@
 |**2019-04-02**|**Benchmarking Keyword Spotting Efficiency on Neuromorphic Hardware**|Peter Blouw et.al.|[1812.01739v2](http://arxiv.org/abs/1812.01739v2)|**[link](https://github.com/abr/power_benchmarks)**|
 |**2019-12-18**|**Training Dynamic Exponential Family Models with Causal and Lateral Dependencies for Generalized Neuromorphic Computing**|Hyeryung Jang et.al.|[1810.08940v3](http://arxiv.org/abs/1810.08940v3)|null|
 
-<p align=right>(<a href=#Updated-on-20240215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240216>back to top</a>)</p>
 
 ## Neuromorphics - Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-28**|**EventF2S: Asynchronous and Sparse Spiking AER Framework using Neuromorphic-Friendly Algorithm**|Lakshmi Annamalai et.al.|[2402.10078v1](http://arxiv.org/abs/2402.10078v1)|null|
+|**2024-01-25**|**Learning fast changing slow in spiking neural networks**|Cristiano Capone et.al.|[2402.10069v1](http://arxiv.org/abs/2402.10069v1)|null|
 |**2024-01-26**|**Neuromorphic quadratic programming for efficient and scalable model predictive control**|Ashish Rao Mangalore et.al.|[2401.14885v1](http://arxiv.org/abs/2401.14885v1)|null|
 |**2024-01-12**|**Performance Evaluation of Neuromorphic Hardware for Onboard Satellite Communication Applications**|Eva Lagunas et.al.|[2401.06911v1](http://arxiv.org/abs/2401.06911v1)|null|
 |**2024-01-09**|**Analysis and design of rhythmic neuromorphic networks through dominance and bifurcations**|Omar Juarez-Alvarez et.al.|[2401.04324v1](http://arxiv.org/abs/2401.04324v1)|null|
@@ -262,7 +264,7 @@
 |**2023-03-29**|**Coarse-graining collective skyrmion dynamics in confined geometries**|Thomas Brian Winkler et.al.|[2303.16472v1](http://arxiv.org/abs/2303.16472v1)|null|
 |**2023-03-27**|**Open the box of digital neuromorphic processor: Towards effective algorithm-hardware co-design**|Guangzhi Tang et.al.|[2303.15224v1](http://arxiv.org/abs/2303.15224v1)|null|
 |**2023-03-21**|**Ultrafast artificial intelligence: Machine learning with atomic-scale quantum systems**|Thomas Pfeifer et.al.|[2303.12231v1](http://arxiv.org/abs/2303.12231v1)|null|
-|**2023-03-14**|**Training and Deploying Spiking NN Applications to the Mixed-Signal Neuromorphic Chip Dynap-SE2 with Rockpool**|Uğurcan Çakal et.al.|[2303.12167v1](http://arxiv.org/abs/2303.12167v1)|null|
+|**2024-02-15**|**Gradient-descent hardware-aware training and deployment for mixed-signal Neuromorphic processors**|Uğurcan Çakal et.al.|[2303.12167v2](http://arxiv.org/abs/2303.12167v2)|null|
 |**2023-03-08**|**Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks**|Tong Bu et.al.|[2303.04347v1](http://arxiv.org/abs/2303.04347v1)|**[link](https://github.com/putshua/SNN_conversion_QCFS)**|
 |**2023-02-28**|**A Multimode Hybrid Memristor-CMOS Prototyping Platform Supporting Digital and Analog Projects**|Kamel-Eddine Harabi et.al.|[2302.14577v1](http://arxiv.org/abs/2302.14577v1)|null|
 |**2023-02-26**|**AutoML for neuromorphic computing and application-driven co-design: asynchronous, massively parallel optimization of spiking architectures**|Angel Yanguas-Gil et.al.|[2302.13210v1](http://arxiv.org/abs/2302.13210v1)|**[link](https://github.com/spikelearn/spikelearn)**|
@@ -301,12 +303,13 @@
 |**2022-05-25**|**TNN7: A Custom Macro Suite for Implementing Highly Optimized Designs of Neuromorphic TNNs**|Harideep Nair et.al.|[2205.07410v2](http://arxiv.org/abs/2205.07410v2)|**[link](https://github.com/prabsy96/TNN7)**|
 |**2022-04-01**|**Physical Deep Learning with Biologically Plausible Training Method**|Mitsumasa Nakajima et.al.|[2204.13991v1](http://arxiv.org/abs/2204.13991v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240216>back to top</a>)</p>
 
 ## Neuromorphics - Algorithm
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-28**|**EventF2S: Asynchronous and Sparse Spiking AER Framework using Neuromorphic-Friendly Algorithm**|Lakshmi Annamalai et.al.|[2402.10078v1](http://arxiv.org/abs/2402.10078v1)|null|
 |**2024-02-13**|**Two Tales of Single-Phase Contrastive Hebbian Learning**|Rasmus Kjær Høier et.al.|[2402.08573v1](http://arxiv.org/abs/2402.08573v1)|null|
 |**2024-02-09**|**Photon Number-Resolving Quantum Reservoir Computing**|Sam Nerenberg et.al.|[2402.06339v1](http://arxiv.org/abs/2402.06339v1)|null|
 |**2024-02-04**|**Neuromorphic hardware for sustainable AI data centers**|Bernhard Vogginger et.al.|[2402.02521v1](http://arxiv.org/abs/2402.02521v1)|null|
@@ -424,5 +427,5 @@
 |**2022-08-29**|**Cortical-inspired placement and routing: minimizing the memory resources in multi-core neuromorphic processors**|Vanessa R. C. Leite et.al.|[2208.13587v1](http://arxiv.org/abs/2208.13587v1)|null|
 |**2022-08-26**|**Polarization-controlled volatile ferroelectric and capacitive switching in Sn$_2$P$_2$S$_6$**|Sabine M. Neumayer et.al.|[2208.12734v1](http://arxiv.org/abs/2208.12734v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240216>back to top</a>)</p>
 
