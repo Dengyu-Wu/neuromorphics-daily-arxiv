@@ -1,4 +1,4 @@
-## Updated on 2024.02.21
+## Updated on 2024.02.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -57,7 +57,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240222>back to top</a>)</p>
 
 ## Neuromorphics - FPGA
 
@@ -109,7 +109,7 @@
 |**2013-04-02**|**Event management for large scale event-driven digital hardware spiking neural networks**|Louis-Charles Caron et.al.|[1304.0640v1](http://arxiv.org/abs/1304.0640v1)|null|
 |**2012-12-16**|**Biologically Inspired Spiking Neurons : Piecewise Linear Models and Digital Implementation**|Hamid Soleimani et.al.|[1212.3765v1](http://arxiv.org/abs/1212.3765v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240222>back to top</a>)</p>
 
 ## Neuromorphics - Loihi
 
@@ -185,7 +185,7 @@
 |**2019-04-02**|**Benchmarking Keyword Spotting Efficiency on Neuromorphic Hardware**|Peter Blouw et.al.|[1812.01739v2](http://arxiv.org/abs/1812.01739v2)|**[link](https://github.com/abr/power_benchmarks)**|
 |**2019-12-18**|**Training Dynamic Exponential Family Models with Causal and Lateral Dependencies for Generalized Neuromorphic Computing**|Hyeryung Jang et.al.|[1810.08940v3](http://arxiv.org/abs/1810.08940v3)|null|
 
-<p align=right>(<a href=#Updated-on-20240221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240222>back to top</a>)</p>
 
 ## Neuromorphics - Optimization
 
@@ -303,7 +303,7 @@
 |**2022-05-25**|**TNN7: A Custom Macro Suite for Implementing Highly Optimized Designs of Neuromorphic TNNs**|Harideep Nair et.al.|[2205.07410v2](http://arxiv.org/abs/2205.07410v2)|**[link](https://github.com/prabsy96/TNN7)**|
 |**2022-04-01**|**Physical Deep Learning with Biologically Plausible Training Method**|Mitsumasa Nakajima et.al.|[2204.13991v1](http://arxiv.org/abs/2204.13991v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240222>back to top</a>)</p>
 
 ## Neuromorphics - Algorithm
 
@@ -407,7 +407,7 @@
 |**2022-11-29**|**Sequence learning in a spiking neuronal network with memristive synapses**|Younes Bouhadjar et.al.|[2211.16592v1](http://arxiv.org/abs/2211.16592v1)|null|
 |**2022-11-24**|**PC-SNN: Supervised Learning with Local Hebbian Synaptic Plasticity based on Predictive Coding in Spiking Neural Networks**|Mengting Lan et.al.|[2211.15386v1](http://arxiv.org/abs/2211.15386v1)|null|
 |**2022-11-14**|**An online algorithm for contrastive Principal Component Analysis**|Siavash Golkar et.al.|[2211.07723v1](http://arxiv.org/abs/2211.07723v1)|null|
-|**2022-12-20**|**Universal Quantum Perceptrons for Quantum Machine Learning**|Rodrigo Araiza Bravo et.al.|[2211.07075v2](http://arxiv.org/abs/2211.07075v2)|null|
+|**2024-02-21**|**Expressive Quantum Perceptrons for Quantum Neuromorphic Computing**|Rodrigo Araiza Bravo et.al.|[2211.07075v3](http://arxiv.org/abs/2211.07075v3)|null|
 |**2022-11-02**|**Solving classification tasks by a receptron based on nonlinear optical speckle fields**|B. Paroli et.al.|[2211.01161v1](http://arxiv.org/abs/2211.01161v1)|null|
 |**2022-11-01**|**Neuromorphic Twins for Networked Control and Decision-Making**|Holger Boche et.al.|[2211.00755v1](http://arxiv.org/abs/2211.00755v1)|null|
 |**2022-10-21**|**Biologically Plausible Variational Policy Gradient with Spiking Recurrent Winner-Take-All Networks**|Zhile Yang et.al.|[2210.13225v1](http://arxiv.org/abs/2210.13225v1)|**[link](https://github.com/yzlc080733/bmvc2022_svpg)**|
@@ -429,5 +429,5 @@
 |**2022-08-29**|**Cortical-inspired placement and routing: minimizing the memory resources in multi-core neuromorphic processors**|Vanessa R. C. Leite et.al.|[2208.13587v1](http://arxiv.org/abs/2208.13587v1)|null|
 |**2022-08-26**|**Polarization-controlled volatile ferroelectric and capacitive switching in Sn$_2$P$_2$S$_6$**|Sabine M. Neumayer et.al.|[2208.12734v1](http://arxiv.org/abs/2208.12734v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240222>back to top</a>)</p>
 
