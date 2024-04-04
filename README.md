@@ -8,6 +8,7 @@
     <li><a href=#Neuromorphics---Loihi>Neuromorphics - Loihi</a></li>
     <li><a href=#Neuromorphics---Optimization>Neuromorphics - Optimization</a></li>
     <li><a href=#Neuromorphics---Algorithm>Neuromorphics - Algorithm</a></li>
+    <li><a href=#Neuromorphics---Wireless>Neuromorphics - Wireless</a></li>
   </ol>
 </details>
 
@@ -454,6 +455,32 @@
 |**2022-09-01**|**Holomorphic Equilibrium Propagation Computes Exact Gradients Through Finite Size Oscillations**|Axel Laborieux et.al.|[2209.00530v1](http://arxiv.org/abs/2209.00530v1)|**[link](https://github.com/Laborieux-Axel/holomorphic_eqprop)**|
 |**2022-08-29**|**Cortical-inspired placement and routing: minimizing the memory resources in multi-core neuromorphic processors**|Vanessa R. C. Leite et.al.|[2208.13587v1](http://arxiv.org/abs/2208.13587v1)|null|
 |**2022-08-26**|**Polarization-controlled volatile ferroelectric and capacitive switching in Sn$_2$P$_2$S$_6$**|Sabine M. Neumayer et.al.|[2208.12734v1](http://arxiv.org/abs/2208.12734v1)|null|
+
+<p align=right>(<a href=#Updated-on-20240404>back to top</a>)</p>
+
+## Neuromorphics - Wireless
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-04-02**|**Neuromorphic Wireless Device-Edge Co-Inference via the Directed Information Bottleneck**|Yuzhen Ke et.al.|[2404.01804v1](http://arxiv.org/abs/2404.01804v1)|null|
+|**2023-12-22**|**NeuroRIS: Neuromorphic-Inspired Metasurfaces**|Christos G. Tsinos et.al.|[2312.14548v1](http://arxiv.org/abs/2312.14548v1)|null|
+|**2023-12-15**|**Towards Neuromorphic Compression based Neural Sensing for Next-Generation Wireless Implantable Brain Machine Interface**|Vivek Mohan et.al.|[2312.09503v1](http://arxiv.org/abs/2312.09503v1)|null|
+|**2023-06-23**|**Wireless magneto-ionics: voltage control of magnetism by bipolar electrochemistry**|Zheng Ma et.al.|[2306.13417v1](http://arxiv.org/abs/2306.13417v1)|null|
+|**2023-06-22**|**Harnessing the Potential of Optical Communications for the Metaverse**|Baha Eddine Youcef Belmekki et.al.|[2306.12822v1](http://arxiv.org/abs/2306.12822v1)|null|
+|**2023-05-20**|**An Asynchronous Wireless Network for Capturing Event-Driven Data from Large Populations of Autonomous Sensors**|Jihun Lee et.al.|[2305.12293v1](http://arxiv.org/abs/2305.12293v1)|null|
+|**2023-04-14**|**Object Motion Sensitivity: A Bio-inspired Solution to the Ego-motion Problem for Event-based Cameras**|Shay Snyder et.al.|[2303.14114v3](http://arxiv.org/abs/2303.14114v3)|null|
+|**2023-01-22**|**Easy-plane spin Hall oscillator**|Eric Arturo Montoya et.al.|[2301.09228v1](http://arxiv.org/abs/2301.09228v1)|null|
+|**2022-10-29**|**On the Need of Neuromorphic Twins to Detect Denial-of-Service Attacks on Communication Networks**|Holger Boche et.al.|[2210.16690v1](http://arxiv.org/abs/2210.16690v1)|null|
+|**2022-12-20**|**Neuromorphic Integrated Sensing and Communications**|Jiechen Chen et.al.|[2209.11891v2](http://arxiv.org/abs/2209.11891v2)|null|
+|**2023-01-08**|**Neuromorphic Wireless Cognition: Event-Driven Semantic Communications for Remote Inference**|Jiechen Chen et.al.|[2206.06047v2](http://arxiv.org/abs/2206.06047v2)|null|
+|**2021-09-14**|**Photo-memristive sensing with charge storing 2D carbon nitrides**|Andreas Gouder et.al.|[2109.06964v1](http://arxiv.org/abs/2109.06964v1)|null|
+|**2023-04-26**|**Non-hermiticity in spintronics: oscillation death in coupled spintronic nano-oscillators through emerging exceptional points**|Steffen Wittrock et.al.|[2108.04804v2](http://arxiv.org/abs/2108.04804v2)|null|
+|**2020-12-09**|**Spiking Neural Networks -- Part III: Neuromorphic Communications**|Nicolas Skatchkovsky et.al.|[2010.14220v2](http://arxiv.org/abs/2010.14220v2)|null|
+|**2020-09-03**|**End-to-End Learning of Neuromorphic Wireless Systems for Low-Power Edge Artificial Intelligence**|Nicolas Skatchkovsky et.al.|[2009.01527v1](http://arxiv.org/abs/2009.01527v1)|null|
+|**2020-09-14**|**Helium Ion Microscopy for Reduced Spin Orbit Torque Switching Currents**|Peter Dunne et.al.|[2005.07626v2](http://arxiv.org/abs/2005.07626v2)|null|
+|**2019-08-29**|**Giant magnetoresistance amplifier for spin-orbit torque nano-oscillators**|Jen-Ru Chen et.al.|[1908.11411v1](http://arxiv.org/abs/1908.11411v1)|null|
+|**2019-03-25**|**Robotic Materials**|Nikolaus Correll et.al.|[1903.10480v1](http://arxiv.org/abs/1903.10480v1)|null|
+|**2018-11-07**|**Phase change-photonic framework for terahertz wave control**|Prakash Pitchappa et.al.|[1811.02729v1](http://arxiv.org/abs/1811.02729v1)|null|
 
 <p align=right>(<a href=#Updated-on-20240404>back to top</a>)</p>
 

@@ -231,6 +231,7 @@ if __name__ == "__main__":
     keywords["Neuromorphics - Loihi"]  = "\"Neuromorphic\"AND\"Loihi\""
     keywords["Neuromorphics - Optimization"]  = "\"Neuromorphic\"AND\"Optimization\""
     keywords["Neuromorphics - Algorithm"]  = "\"Neuromorphic\"AND\"Algorithm\""
+    keywords["Neuromorphics - Wireless"]  = "\"Neuromorphic\"AND\"Wireless\""
 
     for topic,keyword in keywords.items():
  
