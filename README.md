@@ -1,4 +1,4 @@
-## Updated on 2024.07.10
+## Updated on 2024.07.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -60,7 +60,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 ## Neuromorphics - FPGA
 
@@ -116,7 +116,7 @@
 |**2013-04-02**|**Event management for large scale event-driven digital hardware spiking neural networks**|Louis-Charles Caron et.al.|[1304.0640v1](http://arxiv.org/abs/1304.0640v1)|null|
 |**2012-12-16**|**Biologically Inspired Spiking Neurons : Piecewise Linear Models and Digital Implementation**|Hamid Soleimani et.al.|[1212.3765v1](http://arxiv.org/abs/1212.3765v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 ## Neuromorphics - Loihi
 
@@ -202,12 +202,15 @@
 |**2019-04-02**|**Benchmarking Keyword Spotting Efficiency on Neuromorphic Hardware**|Peter Blouw et.al.|[1812.01739v2](http://arxiv.org/abs/1812.01739v2)|**[link](https://github.com/abr/power_benchmarks)**|
 |**2019-12-18**|**Training Dynamic Exponential Family Models with Causal and Lateral Dependencies for Generalized Neuromorphic Computing**|Hyeryung Jang et.al.|[1810.08940v3](http://arxiv.org/abs/1810.08940v3)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 ## Neuromorphics - Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Event-Aided Time-to-Collision Estimation for Autonomous Driving**|Jinghang Li et.al.|[2407.07324v1](http://arxiv.org/abs/2407.07324v1)|null|
+|**2024-07-09**|**An Attempt to Devise a Pairwise Ising-Type Maximum Entropy Model Integrated Cost Function for Optimizing SNN Deployment**|Wanhong Huang et.al.|[2407.07014v1](http://arxiv.org/abs/2407.07014v1)|null|
+|**2024-07-08**|**Neuromorphic Imaging with Super-Resolution**|Pei Zhang et.al.|[2407.05764v1](http://arxiv.org/abs/2407.05764v1)|null|
 |**2024-07-04**|**A Generalized Spiking Locally Competitive Algorithm for Multiple Optimization Problems**|Xuexing Du et.al.|[2407.03930v1](http://arxiv.org/abs/2407.03930v1)|null|
 |**2024-07-03**|**Inverse stochastic resonance in adaptive small-world neural networks**|Marius E. Yamakou et.al.|[2407.03151v1](http://arxiv.org/abs/2407.03151v1)|null|
 |**2024-07-02**|**Hybrid Quantum-Classical Photonic Neural Networks**|Tristan Austin et.al.|[2407.02366v1](http://arxiv.org/abs/2407.02366v1)|null|
@@ -232,7 +235,7 @@
 |**2024-05-16**|**Silicon nitride integrated photonics from visible to mid-infrared spectra**|Kirill A. Buzaverov et.al.|[2405.10038v1](http://arxiv.org/abs/2405.10038v1)|null|
 |**2024-05-25**|**From Local to Global Order: A Theory of Neural Synaptic Balance**|Pierre Baldi et.al.|[2405.09688v2](http://arxiv.org/abs/2405.09688v2)|null|
 |**2024-05-24**|**Gradient-Free Training of Recurrent Neural Networks using Random Perturbations**|Jesus Garcia Fernandez et.al.|[2405.08967v2](http://arxiv.org/abs/2405.08967v2)|null|
-|**2024-05-07**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387v1](http://arxiv.org/abs/2405.04387v1)|**[link](https://github.com/Parsa-Research-Laboratory/lmao)**|
+|**2024-07-09**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387v2](http://arxiv.org/abs/2405.04387v2)|**[link](https://github.com/Parsa-Research-Laboratory/lmao)**|
 |**2024-05-06**|**Speckle pattern analysis of PVK:rGO composite based memristor device**|Ramin Jamali et.al.|[2405.03369v1](http://arxiv.org/abs/2405.03369v1)|null|
 |**2024-04-16**|**Oxygen vacancies modulated VO2 for neurons and Spiking Neural Network construction**|Liang Li et.al.|[2405.00700v1](http://arxiv.org/abs/2405.00700v1)|null|
 |**2024-05-07**|**Covariant spatio-temporal receptive fields for neuromorphic computing**|Jens Egholm Pedersen et.al.|[2405.00318v2](http://arxiv.org/abs/2405.00318v2)|**[link](https://github.com/jegp/nrf)**|
@@ -298,7 +301,7 @@
 |**2023-07-03**|**Resistive memory-based zero-shot liquid state machine for multimodal event data learning**|Ning Lin et.al.|[2307.00771v1](http://arxiv.org/abs/2307.00771v1)|null|
 |**2023-12-14**|**AutoST: Training-free Neural Architecture Search for Spiking Transformers**|Ziqing Wang et.al.|[2307.00293v2](http://arxiv.org/abs/2307.00293v2)|**[link](https://github.com/alexandrewang915/autost)**|
 |**2023-06-30**|**Zespol: A Lightweight Environment for Training Swarming Agents**|Shay Snyder et.al.|[2306.17744v1](http://arxiv.org/abs/2306.17744v1)|null|
-|**2024-01-28**|**To Spike or Not To Spike: A Digital Hardware Perspective on Deep Learning Acceleration**|Fabrizio Ottati et.al.|[2306.15749v5](http://arxiv.org/abs/2306.15749v5)|**[link](https://github.com/fabrizio-ottati/awesome-neuromorphic-hw)**|
+|**2024-01-28**|**To Spike or Not To Spike: A Digital Hardware Perspective on Deep Learning Acceleration**|Fabrizio Ottati et.al.|[2306.15749v5](http://arxiv.org/abs/2306.15749v5)|**[link](https://github.com/fabrizio-ottati/to-spike-or-not)**|
 |**2023-06-26**|**C3S Micro-architectural Enhancement: Spike Encoder Block and Relaxing Gamma Clock (Asynchronous)**|Alok Anand et.al.|[2306.15093v1](http://arxiv.org/abs/2306.15093v1)|null|
 |**2023-06-26**|**CIMulator: A Comprehensive Simulation Platform for Computing-In-Memory Circuit Macros with Low Bit-Width and Real Memory Materials**|Hoang-Hiep Le et.al.|[2306.14649v1](http://arxiv.org/abs/2306.14649v1)|null|
 |**2023-06-22**|**Memristive Reservoirs Learn to Learn**|Ruomin Zhu et.al.|[2306.12676v1](http://arxiv.org/abs/2306.12676v1)|null|
@@ -363,12 +366,14 @@
 |**2022-05-25**|**TNN7: A Custom Macro Suite for Implementing Highly Optimized Designs of Neuromorphic TNNs**|Harideep Nair et.al.|[2205.07410v2](http://arxiv.org/abs/2205.07410v2)|**[link](https://github.com/prabsy96/TNN7)**|
 |**2022-04-01**|**Physical Deep Learning with Biologically Plausible Training Method**|Mitsumasa Nakajima et.al.|[2204.13991v1](http://arxiv.org/abs/2204.13991v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 ## Neuromorphics - Algorithm
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Event-Aided Time-to-Collision Estimation for Autonomous Driving**|Jinghang Li et.al.|[2407.07324v1](http://arxiv.org/abs/2407.07324v1)|null|
+|**2024-06-05**|**Efficient Hybrid Neuromorphic-Bayesian Model for Olfaction Sensing: Detection and Classification**|Rizwana Kausar et.al.|[2407.04714v1](http://arxiv.org/abs/2407.04714v1)|null|
 |**2024-07-04**|**A Generalized Spiking Locally Competitive Algorithm for Multiple Optimization Problems**|Xuexing Du et.al.|[2407.03930v1](http://arxiv.org/abs/2407.03930v1)|null|
 |**2024-07-01**|**Real-Time Neuromorphic Navigation: Integrating Event-Based Vision and Physics-Driven Planning on a Parrot Bebop2 Quadrotor**|Amogh Joshi et.al.|[2407.00931v1](http://arxiv.org/abs/2407.00931v1)|null|
 |**2024-06-30**|**HASNAS: A Hardware-Aware Spiking Neural Architecture Search Framework for Neuromorphic Compute-in-Memory Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2407.00641v1](http://arxiv.org/abs/2407.00641v1)|null|
@@ -389,7 +394,7 @@
 |**2024-05-17**|**Memristive response and neuromorphic functionality of polycrystalline ferroelectric Ca:HfO$_{2}$-based devices**|C. Ferreyra et.al.|[2405.10909v1](http://arxiv.org/abs/2405.10909v1)|null|
 |**2024-05-25**|**From Local to Global Order: A Theory of Neural Synaptic Balance**|Pierre Baldi et.al.|[2405.09688v2](http://arxiv.org/abs/2405.09688v2)|null|
 |**2024-05-24**|**Gradient-Free Training of Recurrent Neural Networks using Random Perturbations**|Jesus Garcia Fernandez et.al.|[2405.08967v2](http://arxiv.org/abs/2405.08967v2)|null|
-|**2024-05-07**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387v1](http://arxiv.org/abs/2405.04387v1)|**[link](https://github.com/Parsa-Research-Laboratory/lmao)**|
+|**2024-07-09**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387v2](http://arxiv.org/abs/2405.04387v2)|**[link](https://github.com/Parsa-Research-Laboratory/lmao)**|
 |**2024-05-06**|**Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods**|Chenlin Zhou et.al.|[2405.04289v1](http://arxiv.org/abs/2405.04289v1)|**[link](https://github.com/zhouchenlin2096/awesome-spiking-neural-networks)**|
 |**2024-05-02**|**Distributed Representations Enable Robust Multi-Timescale Computation in Neuromorphic Hardware**|Madison Cotteret et.al.|[2405.01305v1](http://arxiv.org/abs/2405.01305v1)|null|
 |**2024-05-07**|**Covariant spatio-temporal receptive fields for neuromorphic computing**|Jens Egholm Pedersen et.al.|[2405.00318v2](http://arxiv.org/abs/2405.00318v2)|**[link](https://github.com/jegp/nrf)**|
@@ -533,7 +538,7 @@
 |**2022-08-29**|**Cortical-inspired placement and routing: minimizing the memory resources in multi-core neuromorphic processors**|Vanessa R. C. Leite et.al.|[2208.13587v1](http://arxiv.org/abs/2208.13587v1)|null|
 |**2022-08-26**|**Polarization-controlled volatile ferroelectric and capacitive switching in Sn$_2$P$_2$S$_6$**|Sabine M. Neumayer et.al.|[2208.12734v1](http://arxiv.org/abs/2208.12734v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 ## Neuromorphics - Wireless
 
@@ -561,5 +566,5 @@
 |**2019-03-25**|**Robotic Materials**|Nikolaus Correll et.al.|[1903.10480v1](http://arxiv.org/abs/1903.10480v1)|null|
 |**2018-11-07**|**Phase change-photonic framework for terahertz wave control**|Prakash Pitchappa et.al.|[1811.02729v1](http://arxiv.org/abs/1811.02729v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
