@@ -36,7 +36,7 @@ jobs:
     - name: Commit and push changes
       run: |
         git add .
-        git commit -m "Update generated files"
+        git commit -m "Update at $(date '+%Y-%m-%d')"
         git push origin main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
