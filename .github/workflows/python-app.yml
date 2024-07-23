@@ -34,9 +34,16 @@ jobs:
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
     - name: Commit and push changes
-      run: |
-        git add .
-        git commit -m "Update at $(date '+%Y-%m-%d')"
-        git push origin main
+      uses: github-actions-x/commit@v2.9
+      with:
+        commit-message: "Update files on $(date '+%Y-%m-%d')"
+        branch: ${{ github.ref }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    # - name: Commit and push changes
+    #   run: |
+    #     git add .
+    #     git commit -m "Update at $(date '+%Y-%m-%d')"
+    #     git push origin main
+    #   env:
+    #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
