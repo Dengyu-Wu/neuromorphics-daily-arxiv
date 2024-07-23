@@ -39,5 +39,5 @@ jobs:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: "Update files on $(date '+%Y-%m-%d')"
         push-branch: ${{ github.ref_name }}
- 
+        files: README.md neuromorphic-arxiv-daily.json
 
