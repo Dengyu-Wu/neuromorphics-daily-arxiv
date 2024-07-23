@@ -37,6 +37,6 @@ jobs:
       run: |
         git add .
         git commit -m "Update generated files"
-        git push
+        git push origin main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
