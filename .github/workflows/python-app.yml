@@ -38,6 +38,7 @@ jobs:
       with:
         commit-message: "Update files on $(date '+%Y-%m-%d')"
         push-branch: ${{ github.ref_name }}
+        rebase: 'true'
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
