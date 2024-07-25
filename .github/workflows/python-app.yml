@@ -3,6 +3,9 @@
 
 name: Run Python script on schedule
 
+env:
+  GITHUB_USER_NAME: Dengyu-Wu
+  
 on:
   schedule:
     - cron: '00 07 * * *'  # Runs at 00:00 UTC every day
@@ -41,6 +44,7 @@ jobs:
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: "Update files on $(date '+%Y-%m-%d')"
-        push-branch: ${{ github.ref_name }}
         files: README.md neuromorphic-arxiv-daily.json
-
+        rebase: 'true'
+        name: ${{ env.GITHUB_USER_NAME }}
+        email: ${{ env.GITHUB_USER_EMAIL }}
