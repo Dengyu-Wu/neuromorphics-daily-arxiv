@@ -1,4 +1,4 @@
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -65,7 +65,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241209>back to top</a>)</p>
 
 ## Neuromorphics - FPGA
 
@@ -126,7 +126,7 @@
 |**2013-04-02**|**Event management for large scale event-driven digital hardware spiking neural networks**|Louis-Charles Caron et.al.|[1304.0640v1](http://arxiv.org/abs/1304.0640v1)|null|
 |**2012-12-16**|**Biologically Inspired Spiking Neurons : Piecewise Linear Models and Digital Implementation**|Hamid Soleimani et.al.|[1212.3765v1](http://arxiv.org/abs/1212.3765v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241209>back to top</a>)</p>
 
 ## Neuromorphics - Loihi
 
@@ -221,12 +221,13 @@
 |**2019-04-02**|**Benchmarking Keyword Spotting Efficiency on Neuromorphic Hardware**|Peter Blouw et.al.|[1812.01739v2](http://arxiv.org/abs/1812.01739v2)|**[link](https://github.com/abr/power_benchmarks)**|
 |**2019-12-18**|**Training Dynamic Exponential Family Models with Causal and Lateral Dependencies for Generalized Neuromorphic Computing**|Hyeryung Jang et.al.|[1810.08940v3](http://arxiv.org/abs/1810.08940v3)|null|
 
-<p align=right>(<a href=#Updated-on-20241208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241209>back to top</a>)</p>
 
 ## Neuromorphics - Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Robust Computation with Intrinsic Heterogeneity**|Arash Golmohammadi et.al.|[2412.05126v1](http://arxiv.org/abs/2412.05126v1)|null|
 |**2024-12-04**|**Short-reach Optical Communications: A Real-world Task for Neuromorphic Hardware**|Elias Arnold et.al.|[2412.03129v1](http://arxiv.org/abs/2412.03129v1)|**[link](https://github.com/imdd-task/imdd-task)**|
 |**2024-12-03**|**Reproduction of AdEx dynamics on neuromorphic hardware through data embedding and simulation-based inference**|Jakob Huhle et.al.|[2412.02437v1](http://arxiv.org/abs/2412.02437v1)|null|
 |**2024-11-28**|**Inverse-design topology optimization of magnonic devices using level-set method**|Andrey A. Voronov et.al.|[2411.19109v1](http://arxiv.org/abs/2411.19109v1)|null|
@@ -284,7 +285,7 @@
 |**2024-07-04**|**A Generalized Spiking Locally Competitive Algorithm for Multiple Optimization Problems**|Xuexing Du et.al.|[2407.03930v1](http://arxiv.org/abs/2407.03930v1)|null|
 |**2024-10-17**|**Inverse stochastic resonance in adaptive small-world neural networks**|Marius E. Yamakou et.al.|[2407.03151v2](http://arxiv.org/abs/2407.03151v2)|null|
 |**2024-07-14**|**Hybrid Quantum-Classical Photonic Neural Networks**|Tristan Austin et.al.|[2407.02366v2](http://arxiv.org/abs/2407.02366v2)|null|
-|**2024-06-30**|**HASNAS: A Hardware-Aware Spiking Neural Architecture Search Framework for Neuromorphic Compute-in-Memory Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2407.00641v1](http://arxiv.org/abs/2407.00641v1)|null|
+|**2024-12-06**|**NeuroNAS: A Framework for Energy-Efficient Neuromorphic Compute-in-Memory Systems using Hardware-Aware Spiking Neural Architecture Search**|Rachmad Vidya Wicaksana Putra et.al.|[2407.00641v2](http://arxiv.org/abs/2407.00641v2)|null|
 |**2024-06-27**|**Wedge-type engineered analog SiO$_\mathrm{x}$/Cu/SiO$_\mathrm{x}$-Memristive Devices for Neuromorphic Applications**|Rouven Lamprecht et.al.|[2406.18998v1](http://arxiv.org/abs/2406.18998v1)|null|
 |**2024-06-25**|**TRIP: Trainable Region-of-Interest Prediction for Hardware-Efficient Neuromorphic Processing on Event-based Vision**|Cina Arjmand et.al.|[2406.17483v1](http://arxiv.org/abs/2406.17483v1)|**[link](https://github.com/ERNIS-LAB/TRIP)**|
 |**2024-06-24**|**Optical Control of Adaptive Nanoscale Domain Networks**|Marc Zajac et.al.|[2406.17067v1](http://arxiv.org/abs/2406.17067v1)|null|
@@ -294,7 +295,7 @@
 |**2024-06-17**|**Low-power Ship Detection in Satellite Images Using Neuromorphic Hardware**|Gregor Lenz et.al.|[2406.11319v1](http://arxiv.org/abs/2406.11319v1)|null|
 |**2024-06-13**|**CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras**|Sachin Shah et.al.|[2406.09409v1](http://arxiv.org/abs/2406.09409v1)|null|
 |**2024-06-10**|**Quantum Equilibrium Propagation for efficient training of quantum systems based on Onsager reciprocity**|Clara C. Wanjura et.al.|[2406.06482v1](http://arxiv.org/abs/2406.06482v1)|null|
-|**2024-06-10**|**Supervised Radio Frequency Interference Detection with SNNs**|Nicholas J. Pritchard et.al.|[2406.06075v1](http://arxiv.org/abs/2406.06075v1)|null|
+|**2024-12-06**|**Supervised Radio Frequency Interference Detection with SNNs**|Nicholas J. Pritchard et.al.|[2406.06075v2](http://arxiv.org/abs/2406.06075v2)|null|
 |**2024-06-07**|**ON-OFF Neuromorphic ISING Machines using Fowler-Nordheim Annealers**|Zihao Chen et.al.|[2406.05224v1](http://arxiv.org/abs/2406.05224v1)|null|
 |**2024-06-04**|**CADE: Cosine Annealing Differential Evolution for Spiking Neural Network**|Runhua Jiang et.al.|[2406.02349v1](http://arxiv.org/abs/2406.02349v1)|**[link](https://github.com/tank-jiang/cade4snn)**|
 |**2024-06-04**|**A Pipelined Memristive Neural Network Analog-to-Digital Converter**|Loai Danial et.al.|[2406.02197v1](http://arxiv.org/abs/2406.02197v1)|null|
@@ -436,7 +437,7 @@
 |**2022-05-25**|**TNN7: A Custom Macro Suite for Implementing Highly Optimized Designs of Neuromorphic TNNs**|Harideep Nair et.al.|[2205.07410v2](http://arxiv.org/abs/2205.07410v2)|**[link](https://github.com/prabsy96/TNN7)**|
 |**2022-04-01**|**Physical Deep Learning with Biologically Plausible Training Method**|Mitsumasa Nakajima et.al.|[2204.13991v1](http://arxiv.org/abs/2204.13991v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241209>back to top</a>)</p>
 
 ## Neuromorphics - Algorithm
 
@@ -501,14 +502,14 @@
 |**2024-06-05**|**Efficient Hybrid Neuromorphic-Bayesian Model for Olfaction Sensing: Detection and Classification**|Rizwana Kausar et.al.|[2407.04714v1](http://arxiv.org/abs/2407.04714v1)|null|
 |**2024-07-04**|**A Generalized Spiking Locally Competitive Algorithm for Multiple Optimization Problems**|Xuexing Du et.al.|[2407.03930v1](http://arxiv.org/abs/2407.03930v1)|null|
 |**2024-07-01**|**Real-Time Neuromorphic Navigation: Integrating Event-Based Vision and Physics-Driven Planning on a Parrot Bebop2 Quadrotor**|Amogh Joshi et.al.|[2407.00931v1](http://arxiv.org/abs/2407.00931v1)|**[link](https://github.com/amoghj98/neuronav)**|
-|**2024-06-30**|**HASNAS: A Hardware-Aware Spiking Neural Architecture Search Framework for Neuromorphic Compute-in-Memory Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2407.00641v1](http://arxiv.org/abs/2407.00641v1)|null|
+|**2024-12-06**|**NeuroNAS: A Framework for Energy-Efficient Neuromorphic Compute-in-Memory Systems using Hardware-Aware Spiking Neural Architecture Search**|Rachmad Vidya Wicaksana Putra et.al.|[2407.00641v2](http://arxiv.org/abs/2407.00641v2)|null|
 |**2024-06-28**|**Directly Training Temporal Spiking Neural Network with Sparse Surrogate Gradient**|Yang Li et.al.|[2406.19645v1](http://arxiv.org/abs/2406.19645v1)|null|
 |**2024-06-25**|**TRIP: Trainable Region-of-Interest Prediction for Hardware-Efficient Neuromorphic Processing on Event-based Vision**|Cina Arjmand et.al.|[2406.17483v1](http://arxiv.org/abs/2406.17483v1)|**[link](https://github.com/ERNIS-LAB/TRIP)**|
 |**2024-06-24**|**High-quality activation function for applications in neuromorphic photonic chips realized using low-quality nonlinear optical resonators**|Ivan A. Pshenichnyuk et.al.|[2406.16798v1](http://arxiv.org/abs/2406.16798v1)|null|
 |**2024-06-24**|**Emerging NeoHebbian Dynamics in Forward-Forward Learning: Implications for Neuromorphic Computing**|Erik B. Terres-Escudero et.al.|[2406.16479v1](http://arxiv.org/abs/2406.16479v1)|**[link](https://github.com/erikberter/hebbian_ffa)**|
 |**2024-10-31**|**D-SELD: Dataset-Scalable Exemplar LCA-Decoder**|Sanaz Mahmoodi Takaghaj et.al.|[2406.10066v2](http://arxiv.org/abs/2406.10066v2)|null|
 |**2024-06-10**|**Applications and resource estimates for open system simulation on a quantum computer**|Evgeny Mozgunov et.al.|[2406.06281v1](http://arxiv.org/abs/2406.06281v1)|null|
-|**2024-06-10**|**Supervised Radio Frequency Interference Detection with SNNs**|Nicholas J. Pritchard et.al.|[2406.06075v1](http://arxiv.org/abs/2406.06075v1)|null|
+|**2024-12-06**|**Supervised Radio Frequency Interference Detection with SNNs**|Nicholas J. Pritchard et.al.|[2406.06075v2](http://arxiv.org/abs/2406.06075v2)|null|
 |**2024-06-07**|**Unsupervised representation learning with Hebbian synaptic and structural plasticity in brain-like feedforward neural networks**|Naresh Ravichandran et.al.|[2406.04733v1](http://arxiv.org/abs/2406.04733v1)|null|
 |**2024-06-06**|**CORTEX: Large-Scale Brain Simulator Utilizing Indegree Sub-Graph Decomposition on Fugaku Supercomputer**|Tianxiang Lyu et.al.|[2406.03762v1](http://arxiv.org/abs/2406.03762v1)|null|
 |**2024-06-04**|**A Pipelined Memristive Neural Network Analog-to-Digital Converter**|Loai Danial et.al.|[2406.02197v1](http://arxiv.org/abs/2406.02197v1)|null|
@@ -664,7 +665,7 @@
 |**2022-08-29**|**Cortical-inspired placement and routing: minimizing the memory resources in multi-core neuromorphic processors**|Vanessa R. C. Leite et.al.|[2208.13587v1](http://arxiv.org/abs/2208.13587v1)|null|
 |**2022-08-26**|**Polarization-controlled volatile ferroelectric and capacitive switching in Sn$_2$P$_2$S$_6$**|Sabine M. Neumayer et.al.|[2208.12734v1](http://arxiv.org/abs/2208.12734v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241209>back to top</a>)</p>
 
 ## Neuromorphics - Wireless
 
@@ -694,5 +695,5 @@
 |**2019-03-25**|**Robotic Materials**|Nikolaus Correll et.al.|[1903.10480v1](http://arxiv.org/abs/1903.10480v1)|null|
 |**2018-11-07**|**Phase change-photonic framework for terahertz wave control**|Prakash Pitchappa et.al.|[1811.02729v1](http://arxiv.org/abs/1811.02729v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241209>back to top</a>)</p>
 
