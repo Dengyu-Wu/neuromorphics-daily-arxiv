@@ -1,4 +1,4 @@
-## Updated on 2025.01.22
+## Updated on 2025.01.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -65,7 +65,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250123>back to top</a>)</p>
 
 ## Neuromorphics - FPGA
 
@@ -130,7 +130,7 @@
 |**2013-04-02**|**Event management for large scale event-driven digital hardware spiking neural networks**|Louis-Charles Caron et.al.|[1304.0640v1](http://arxiv.org/abs/1304.0640v1)|null|
 |**2012-12-16**|**Biologically Inspired Spiking Neurons : Piecewise Linear Models and Digital Implementation**|Hamid Soleimani et.al.|[1212.3765v1](http://arxiv.org/abs/1212.3765v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250123>back to top</a>)</p>
 
 ## Neuromorphics - Loihi
 
@@ -227,12 +227,13 @@
 |**2019-04-02**|**Benchmarking Keyword Spotting Efficiency on Neuromorphic Hardware**|Peter Blouw et.al.|[1812.01739v2](http://arxiv.org/abs/1812.01739v2)|**[link](https://github.com/abr/power_benchmarks)**|
 |**2019-12-18**|**Training Dynamic Exponential Family Models with Causal and Lateral Dependencies for Generalized Neuromorphic Computing**|Hyeryung Jang et.al.|[1810.08940v3](http://arxiv.org/abs/1810.08940v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250123>back to top</a>)</p>
 
 ## Neuromorphics - Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Enhanced Field-Free Perpendicular Magnetization Switching via spin splitting torque in Altermagnetic RuO2-based Heterostructures**|Badsha Sekh et.al.|[2501.12593v1](http://arxiv.org/abs/2501.12593v1)|null|
 |**2025-01-16**|**AR-SFQ: Asynchronous Reset Library Using α-Cell Design**|Yasemin Kopur et.al.|[2501.09449v1](http://arxiv.org/abs/2501.09449v1)|null|
 |**2025-01-08**|**AI-assisted design of experiments at the frontiers of computation: methods and new perspectives**|Pietro Vischia et.al.|[2501.04448v1](http://arxiv.org/abs/2501.04448v1)|null|
 |**2025-01-02**|**Angular-Controlled GST Phase-Change Double Micro-Ring Resonator for High-Speed Activation Functions in Neuromorphic Computing**|Hossein Karimkhani et.al.|[2501.01093v1](http://arxiv.org/abs/2501.01093v1)|**[link](https://github.com/hosseinkarimkhani/gst-material-raw-data-refractive-index-epsilon-)**|
@@ -458,7 +459,7 @@
 |**2022-05-25**|**TNN7: A Custom Macro Suite for Implementing Highly Optimized Designs of Neuromorphic TNNs**|Harideep Nair et.al.|[2205.07410v2](http://arxiv.org/abs/2205.07410v2)|**[link](https://github.com/prabsy96/TNN7)**|
 |**2022-04-01**|**Physical Deep Learning with Biologically Plausible Training Method**|Mitsumasa Nakajima et.al.|[2204.13991v1](http://arxiv.org/abs/2204.13991v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250123>back to top</a>)</p>
 
 ## Neuromorphics - Algorithm
 
@@ -694,7 +695,7 @@
 |**2022-08-29**|**Cortical-inspired placement and routing: minimizing the memory resources in multi-core neuromorphic processors**|Vanessa R. C. Leite et.al.|[2208.13587v1](http://arxiv.org/abs/2208.13587v1)|null|
 |**2022-08-26**|**Polarization-controlled volatile ferroelectric and capacitive switching in Sn$_2$P$_2$S$_6$**|Sabine M. Neumayer et.al.|[2208.12734v1](http://arxiv.org/abs/2208.12734v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250123>back to top</a>)</p>
 
 ## Neuromorphics - Wireless
 
@@ -724,5 +725,5 @@
 |**2019-03-25**|**Robotic Materials**|Nikolaus Correll et.al.|[1903.10480v1](http://arxiv.org/abs/1903.10480v1)|null|
 |**2018-11-07**|**Phase change-photonic framework for terahertz wave control**|Prakash Pitchappa et.al.|[1811.02729v1](http://arxiv.org/abs/1811.02729v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250123>back to top</a>)</p>
 
