@@ -1,4 +1,4 @@
-## Updated on 2025.04.28
+## Updated on 2025.04.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -65,7 +65,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250429>back to top</a>)</p>
 
 ## Neuromorphics - FPGA
 
@@ -133,7 +133,7 @@
 |**2013-04-02**|**Event management for large scale event-driven digital hardware spiking neural networks**|Louis-Charles Caron et.al.|[1304.0640v1](http://arxiv.org/abs/1304.0640v1)|null|
 |**2012-12-16**|**Biologically Inspired Spiking Neurons : Piecewise Linear Models and Digital Implementation**|Hamid Soleimani et.al.|[1212.3765v1](http://arxiv.org/abs/1212.3765v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250429>back to top</a>)</p>
 
 ## Neuromorphics - Loihi
 
@@ -237,7 +237,7 @@
 |**2019-04-02**|**Benchmarking Keyword Spotting Efficiency on Neuromorphic Hardware**|Peter Blouw et.al.|[1812.01739v2](http://arxiv.org/abs/1812.01739v2)|**[link](https://github.com/abr/power_benchmarks)**|
 |**2019-12-18**|**Training Dynamic Exponential Family Models with Causal and Lateral Dependencies for Generalized Neuromorphic Computing**|Hyeryung Jang et.al.|[1810.08940v3](http://arxiv.org/abs/1810.08940v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250429>back to top</a>)</p>
 
 ## Neuromorphics - Optimization
 
@@ -318,7 +318,7 @@
 |**2024-09-27**|**Heterogeneous quantization regularizes spiking neural network activity**|Roy Moyal et.al.|[2409.18396v1](http://arxiv.org/abs/2409.18396v1)|null|
 |**2024-09-04**|**Learning Task-Based Trainable Neuromorphic ADCs via Power-Aware Distillation**|Tal Vol et.al.|[2409.15300v1](http://arxiv.org/abs/2409.15300v1)|null|
 |**2024-09-23**|**Learning in memristive electrical circuits**|Marieke Heidema et.al.|[2409.15136v1](http://arxiv.org/abs/2409.15136v1)|null|
-|**2024-09-23**|**A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures**|Fernando M. Quintana et.al.|[2409.14918v1](http://arxiv.org/abs/2409.14918v1)|null|
+|**2025-04-28**|**A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures**|Fernando M. Quintana et.al.|[2409.14918v2](http://arxiv.org/abs/2409.14918v2)|null|
 |**2024-09-16**|**Electronic vs. phononic thermal transport in Cr-doped V2O3 thin films across the Mott transition**|Johannes Mohr et.al.|[2409.10748v1](http://arxiv.org/abs/2409.10748v1)|null|
 |**2024-09-13**|**Gradient-based optimization of spintronic devices**|Yusuke Imai et.al.|[2409.09105v1](http://arxiv.org/abs/2409.09105v1)|null|
 |**2024-08-29**|**Reconsidering the energy efficiency of spiking neural networks**|Zhanglu Yan et.al.|[2409.08290v1](http://arxiv.org/abs/2409.08290v1)|null|
@@ -505,12 +505,13 @@
 |**2022-05-25**|**TNN7: A Custom Macro Suite for Implementing Highly Optimized Designs of Neuromorphic TNNs**|Harideep Nair et.al.|[2205.07410v2](http://arxiv.org/abs/2205.07410v2)|**[link](https://github.com/prabsy96/TNN7)**|
 |**2022-04-01**|**Physical Deep Learning with Biologically Plausible Training Method**|Mitsumasa Nakajima et.al.|[2204.13991v1](http://arxiv.org/abs/2204.13991v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250429>back to top</a>)</p>
 
 ## Neuromorphics - Algorithm
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Experimental neuromorphic computing based on quantum memristor**|Mirela Selimović et.al.|[2504.18694v1](http://arxiv.org/abs/2504.18694v1)|null|
 |**2025-04-17**|**Embodied Neuromorphic Control Applied on a 7-DOF Robotic Manipulator**|Ziqi Wang et.al.|[2504.12702v1](http://arxiv.org/abs/2504.12702v1)|**[link](https://bitbucket.org/icubdataset/inverse-dynamic)**|
 |**2025-04-15**|**Adaptively Pruned Spiking Neural Networks for Energy-Efficient Intracortical Neural Decoding**|Francesca Rivelli et.al.|[2504.11568v1](http://arxiv.org/abs/2504.11568v1)|null|
 |**2025-04-15**|**A PyTorch-Compatible Spike Encoding Framework for Energy-Efficient Neuromorphic Applications**|Alexandru Vasilache et.al.|[2504.11026v1](http://arxiv.org/abs/2504.11026v1)|**[link](https://github.com/alex-vasilache/spike-encoding)**|
@@ -544,7 +545,7 @@
 |**2025-02-10**|**Adaptive Central Frequencies Locally Competitive Algorithm for Speech**|Soufiyan Bahadi et.al.|[2502.06989v1](http://arxiv.org/abs/2502.06989v1)|null|
 |**2025-02-10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|Giulia D Angelo et.al.|[2502.06747v1](http://arxiv.org/abs/2502.06747v1)|**[link](https://github.com/GiuliaDAngelo/Speckegomotion)**|
 |**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[2502.02692v1](http://arxiv.org/abs/2502.02692v1)|null|
-|**2025-01-31**|**Neuro-LIFT: A Neuromorphic, LLM-based Interactive Framework for Autonomous Drone FlighT at the Edge**|Amogh Joshi et.al.|[2501.19259v1](http://arxiv.org/abs/2501.19259v1)|null|
+|**2025-04-26**|**Neuro-LIFT: A Neuromorphic, LLM-based Interactive Framework for Autonomous Drone FlighT at the Edge**|Amogh Joshi et.al.|[2501.19259v2](http://arxiv.org/abs/2501.19259v2)|null|
 |**2025-01-30**|**A General-Purpose Neuromorphic Sensor based on Spiketrum Algorithm: Hardware Details and Real-life Applications**|MHD Anas Alsakkal et.al.|[2501.18799v1](http://arxiv.org/abs/2501.18799v1)|null|
 |**2025-01-28**|**Ultrafast neuromorphic computing with nanophotonic optical parametric oscillators**|Midya Parto et.al.|[2501.16604v1](http://arxiv.org/abs/2501.16604v1)|null|
 |**2025-01-09**|**Explore Activation Sparsity in Recurrent LLMs for Energy-Efficient Neuromorphic Computing**|Ivan Knunyants et.al.|[2501.16337v1](http://arxiv.org/abs/2501.16337v1)|**[link](https://github.com/ernis-lab/llm-activation-sparsity)**|
@@ -785,7 +786,7 @@
 |**2022-08-29**|**Cortical-inspired placement and routing: minimizing the memory resources in multi-core neuromorphic processors**|Vanessa R. C. Leite et.al.|[2208.13587v1](http://arxiv.org/abs/2208.13587v1)|null|
 |**2022-08-26**|**Polarization-controlled volatile ferroelectric and capacitive switching in Sn$_2$P$_2$S$_6$**|Sabine M. Neumayer et.al.|[2208.12734v1](http://arxiv.org/abs/2208.12734v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250429>back to top</a>)</p>
 
 ## Neuromorphics - Wireless
 
@@ -820,5 +821,5 @@
 |**2019-03-25**|**Robotic Materials**|Nikolaus Correll et.al.|[1903.10480v1](http://arxiv.org/abs/1903.10480v1)|null|
 |**2018-11-07**|**Phase change-photonic framework for terahertz wave control**|Prakash Pitchappa et.al.|[1811.02729v1](http://arxiv.org/abs/1811.02729v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250429>back to top</a>)</p>
 
